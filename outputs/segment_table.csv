@@ -1,0 +1,6 @@
+segment,customers,churn_rate,avg_mrr,avg_tenure,avg_logins_30d,pct_monthly,share_of_customers,lift_vs_base,total_mrr,revenue_at_risk,avg_risk_score,recommended_action,priority_rank
+1 New & Unproven,609,0.3021,72.536,4.1379,17.0837,0.6223,0.1219,1.2542,44174.4,13346.6167,30.0903,"Guided onboarding: 30/60-day check-ins, activate 3 core features, assign a success contact for Pro/Enterprise.",4
+2 Disengaging,796,0.402,72.3084,22.3505,7.157,0.6369,0.1594,1.6689,57557.5,23138.6935,40.892,Win-back outreach within 7 days of a 30%+ login drop; usage review call; re-share unused features.,2
+3 Friction & Billing Risk,574,0.338,83.7526,22.5488,15.6777,0.5714,0.1149,1.403,48074.0,16248.007,35.1829,Escalate open tickets to a named owner; offer billing support / auto-pay; fix root cause before any promo.,3
+4 Stable Monthly,2068,0.2287,64.0466,22.06,19.5624,0.8956,0.4141,0.9495,132448.3,30294.0261,25.4763,Low-cost nudge: offer annual plan with a discount; keep monitoring score monthly.,1
+5 Committed Core,947,0.0338,107.392,22.2091,23.1499,0.0,0.1896,0.1403,101700.2,3436.5432,2.3865,"Protect, do not discount. Seek referrals and expansion; no retention spend needed.",5
